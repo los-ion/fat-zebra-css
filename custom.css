@@ -1,3 +1,19 @@
 .card-number-field label {
     color: green;
 }
+
+.control-group.payment_form-mh {
+    display: block;
+}
+
+.control-group.payment_form-mh #expiry-date {
+    width: "100%" !important;
+}
+
+.control-group.payment_form-mh #security-code {
+    width: "100%" !important;
+}
+
+.control-group.payment_form-mh #security-code div {
+    float: none !important;
+}
