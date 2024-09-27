@@ -10,7 +10,7 @@
     width: 100% !important;
 }
 
-body .payment #payment_request_expiry_date {
+body.payment input.payment-input {
     width: 100% !important;
 }
 
