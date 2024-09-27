@@ -4,6 +4,10 @@
     min-height: 200px;
 }
 
+.control-group {
+    margin-bottom: 0px !important;
+}
+
 .control-group.payment_form-mh {
     display: block !important;
 }
