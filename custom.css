@@ -1,5 +1,7 @@
-.card-number-field label {
-    color: green;
+#checkoutIframe iframe {
+    border: 0;
+    width: 100%;
+    min-height: 200px;
 }
 
 .control-group.payment_form-mh {
