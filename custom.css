@@ -47,3 +47,7 @@ body.payment input.payment-input {
 .control-group.payment_form-mh #security-code div {
     float: none !important;
 }
+
+.row-fluid div.span4 {
+    padding: 0px !important;
+}
