@@ -2,6 +2,14 @@
     margin-bottom: 0px !important;
 }
 
+.control-group .control-label {
+    color: #868484;
+    font-size: 12px;
+    font-weight: 500;
+    text-transform: uppercase;
+
+}
+
 .control-group.payment_form-mh {
     display: block !important;
 }
