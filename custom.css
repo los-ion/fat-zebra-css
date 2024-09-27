@@ -1,3 +1,9 @@
+body {
+    height: auto;
+    min-height: auto;
+    font-family: "Roboto", sans-serif !important;
+}
+
 .control-group {
     margin-bottom: 0px !important;
 }
@@ -7,6 +13,13 @@
     font-size: 12px;
     font-weight: 500;
     text-transform: uppercase;
+}
+
+input {
+    padding: 0;
+    color: #383838;
+    font-size: 16px;
+    font-weight: 600;
 }
 
 label .error {
