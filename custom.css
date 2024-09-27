@@ -3,7 +3,7 @@
 }
 
 .control-group.payment_form-mh {
-    display: block;
+    display: block !important;
 }
 
 .control-group.payment_form-mh #expiry-date {
