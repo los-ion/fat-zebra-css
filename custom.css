@@ -15,10 +15,6 @@ label .error {
     font-weight: 600;
 }
 
-input:last-child {
-  margin-bottom: 0px !important;
-}
-
 .control-group.payment_form-mh {
     display: block !important;
 }
