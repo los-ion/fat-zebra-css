@@ -7,11 +7,11 @@
 }
 
 .control-group.payment_form-mh #expiry-date {
-    width: "100%" !important;
+    width: 100% !important;
 }
 
 .control-group.payment_form-mh #security-code {
-    width: "100%" !important;
+    width: 100% !important;
 }
 
 .control-group.payment_form-mh #security-code div {
