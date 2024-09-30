@@ -63,9 +63,9 @@ form {
     margin-bottom: 0px !important;
 }
 
-.card-number-field .field .input-container,
-.card-expiry-field .field .input-container,
-.security-code-field .field .input-container {
+.card-number-field .input-container,
+.card-expiry-field .input-container,
+.security-code-field .input-container {
     height: auto !important;
 }
 
