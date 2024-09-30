@@ -49,12 +49,12 @@ input[type="tel"] {
     margin-bottom: 0px !important;
 }
 
-input[type="tel"]::placeholder {
+#payment_request_card_number::placeholder {
     content: '    -' !important;
     color: #ABABAB !important;
 }
 
-input[type="tel"]:focus::placeholder {
+#payment_request_card_number:focus::placeholder {
     color: white !important;
 }
 
