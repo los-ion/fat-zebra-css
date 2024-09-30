@@ -10,6 +10,10 @@ form {
     padding: 0 !important;
 }
 
+.card-number-field input::placeholder {
+    color: #ABABAB;
+}
+
 .card-number-field input,
 .card-expiry-field input,
 .security-code-field input {
@@ -55,8 +59,7 @@ form {
     padding: 10px 0px !important;
     margin-bottom: 0px !important;
     position: relative !important;
-/*     border-top: 1px solid #E2E2E2 !important; */
-    border-bottom: 1px solid #E2E2E2 !important;
+    border-top: 1px solid #E2E2E2 !important;
 }
 
 .card-number-field div div.mb-2 {
