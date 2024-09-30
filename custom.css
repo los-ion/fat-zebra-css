@@ -22,11 +22,6 @@ form {
     border-radius: 0 !important;
 }
 
-.card-number-field input::placeholder {
-    display: none;
-    color: #ABABAB;
-}
-
 .card-number-field .field span {
     visibility: hidden;
 }
