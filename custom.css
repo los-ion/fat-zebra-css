@@ -33,17 +33,13 @@ input {
     border-bottom: 1px solid #E2E2E2 !important;
 }
 
-.input::placeholder {
+input::placeholder {
     content: '    -' !important;
     color: #ABABAB !important;
 }
 
-.input:focus::placeholder {
+input:focus::placeholder {
     color: white !important;
-}
-
-.input:last-child {
-    border-bottom: 1px solid #E2E2E2 !important;
 }
 
 /* .card-icon {
