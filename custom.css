@@ -34,7 +34,6 @@ input {
     border-radius: 0 !important;
     box-shadow: none !important;
     padding-bottom: 10px !important;
-    border-bottom: 1px solid #E2E2E2 !important;
 }
 
 input[type="tel"] {
