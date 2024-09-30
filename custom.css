@@ -29,6 +29,10 @@ form {
     border-bottom: none !important;
 }
 
+.card-number-field {
+    margin-bottom: 0 !important;
+}
+
 .card-number-field label,
 .card-expiry-field label,
 .security-code-field label {
