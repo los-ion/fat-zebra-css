@@ -60,6 +60,7 @@ input[type="tel"]:focus::placeholder {
 
 .control-group.payment_form-mh #expiry-date {
     width: 100% !important;
+    border-bottom: 1px solid #E2E2E2;
 }
 
 body.payment input.payment-input {
