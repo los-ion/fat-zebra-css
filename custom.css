@@ -63,6 +63,6 @@ form {
     height: auto !important;
 }
 
-form div div.mb-4:last-of-type {
+form div div.mb-4:last-of-type div {
     display: block !important;
 }
