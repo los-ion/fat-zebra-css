@@ -72,7 +72,9 @@ form {
     height: auto !important;
 }
 
-.card-number-field div div.mb-2 {
+.card-number-field div div.mb-2,
+.card-expiry-field div div.mb-2,
+.security-code-field div div.mb-2 {
     margin-bottom: 0px !important;
 }
 
