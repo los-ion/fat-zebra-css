@@ -29,13 +29,13 @@ input {
     padding-bottom: 10px !important;
 }
 
-.input:last-of-type {
+.input:last-child {
     border-bottom: 1px solid #E2E2E2 !important;
 }
 
-.card-icon {
+/* .card-icon {
     display: none !important;
-}
+} */
 
 label.error {
     color: red;
