@@ -43,3 +43,16 @@ form {
     line-height: 1.5;
     font-weight: 600;
 }
+
+.card-number-field {
+    height: 66px !important;
+    padding: 10px 0px !important;
+    margin-bottom: 0px !important;
+    position: relative !important;
+    border-top: 1px solid #E2E2E2 !important;
+    border-bottom: 1px solid #E2E2E2 !important;
+}
+
+.card-number-field div div.mb-2 {
+    margin-bottom: 0px !important;
+}
