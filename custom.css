@@ -6,6 +6,10 @@ form {
     margin: 0 !important;
 }
 
+.payment.iframe div:first-of-type {
+    padding: 0 !important;
+}
+
 .control-group {
     height: 66px;
     padding: 10px 0px;
