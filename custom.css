@@ -62,6 +62,10 @@ form {
     border-top: 1px solid #E2E2E2 !important;
 }
 
+.security-code-field {
+    border-bottom: 1px solid #E2E2E2 !important;
+}
+
 .card-number-field div div.mb-2 {
     margin-bottom: 0px !important;
 }
