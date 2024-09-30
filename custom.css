@@ -10,25 +10,6 @@ form {
     padding: 0 !important;
 }
 
-.control-group {
-    height: 66px;
-    padding: 10px 0px;
-    position: relative;
-    margin-bottom: 0px !important;
-    border-bottom: 1px solid #E2E2E2;
-}
-
-.control-group:first-of-type {
-    height: 0px !important;
-    padding: 0px !important;
-}
-
-.control-group:last-of-type {
-    height: 0px !important;
-    padding: 0px !important;
-    border-bottom: none !important;
-}
-
 .card-number-field {
     margin-bottom: 0 !important;
 }
@@ -42,81 +23,4 @@ form {
     font-weight: 500;
     text-transform: uppercase;
     line-height: 1.5 !important;
-}
-
-.control-group .control-label {
-    color: #868484 !important;
-    font-size: 12px !important;
-    margin-top: 5px !important;
-    font-weight: 500 !important;
-    text-transform: uppercase !important;
-}
-
-label.error {
-    top: 0.5px;
-    color: red;
-    font-size: 12px;
-    line-height: 1.5;
-    font-weight: 600;
-    position: absolute;
-}
-
-label.error:first-letter {
-    text-transform: uppercase;
-}
-
-input {
-    padding: 0px !important;
-    height: 26px !important;
-    border: none !important;
-    color: #383838 !important;
-    font-size: 16px !important;
-    font-weight: 600 !important;
-    border-radius: 0 !important;
-    box-shadow: none !important;
-}
-
-input[type="tel"] {
-    margin-bottom: 0px !important;
-}
-
-.control-group.payment_form-mh {
-    padding: 0px !important;
-    display: block !important;
-    height: initial !important;
-    border-bottom: none !important;
-}
-
-.control-group.payment_form-mh #expiry-date {
-    height: 66px;
-    padding: 10px 0px;
-    position: relative;
-    width: 100% !important;
-    border-bottom: 1px solid #E2E2E2;
-}
-
-body.payment input.payment-input {
-    width: 100% !important;
-}
-
-.control-group.payment_form-mh #security-code {
-    height: 66px;
-    padding: 10px 0px;
-    position: relative;
-    width: 100% !important;
-    border-bottom: 1px solid #E2E2E2;
-}
-
-.control-group.payment_form-mh #security-code div {
-    float: none !important;
-}
-
-.row-fluid div.span4 {
-    padding: 0px !important;
-}
-
-.card-amex,
-.card-visa,
-.card-mastercard {
-    background-image: none !important;
 }
