@@ -62,3 +62,7 @@ form {
 .card-number-field .field .input-container {
     height: auto !important;
 }
+
+form div div.mb-4:last-of-type {
+    display: block !important;
+}
