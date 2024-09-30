@@ -41,12 +41,12 @@ input[type="tel"] {
     margin-bottom: 0px !important;
 }
 
-input::placeholder {
+input[type="tel"]::placeholder {
     content: '    -' !important;
     color: #ABABAB !important;
 }
 
-input:focus::placeholder {
+input[type="tel"]:focus::placeholder {
     color: white !important;
 }
 
