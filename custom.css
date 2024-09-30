@@ -6,7 +6,7 @@ form {
     margin: 0 !important;
 }
 
-.payment.iframe div:first-of-type {
+.payment.iframe div.p-1:first-of-type {
     padding: 0 !important;
 }
 
