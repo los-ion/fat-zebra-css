@@ -14,7 +14,7 @@ body {
     font-weight: 500;
     text-transform: uppercase;
     padding-top: 10px !important;
-    border-top: 1px solid #E2E2E2;
+/*     border-top: 1px solid #E2E2E2; */
 }
 
 input {
@@ -27,6 +27,7 @@ input {
     border-radius: 0 !important;
     box-shadow: none !important;
     padding-bottom: 10px !important;
+    border-bottom: 1px solid #E2E2E2 !important;
 }
 
 .input::placeholder {
