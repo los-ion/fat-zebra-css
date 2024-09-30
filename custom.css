@@ -21,6 +21,7 @@ form {
     font-weight: 500;
     text-transform: uppercase;
     padding: 10px 0px !important;
+    line-height: 1.5 !important;
 }
 
 label {
@@ -28,9 +29,12 @@ label {
 }
 
 label.error {
+    top: 0;
     color: red;
+    line-height: 1;
     font-size: 12px;
     font-weight: 600;
+    position: absolute;
 }
 
 input {
