@@ -10,7 +10,9 @@ form {
     padding: 0 !important;
 }
 
-.card-number-field input {
+.card-number-field input,
+.card-expiry-field input,
+.security-code-field input {
     padding: 0px !important;
     border: none !important;
     outline: none !important;
