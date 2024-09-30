@@ -62,6 +62,8 @@ input[type="tel"] {
 }
 
 .control-group.payment_form-mh {
+    height: 0px !important;
+    padding: 0px !important;
     display: block !important;
 }
 
