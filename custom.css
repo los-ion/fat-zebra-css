@@ -38,10 +38,12 @@ form {
 .card-number-field span,
 .card-expiry-field span,
 .security-code-field span {
+    top: 0;
     color: red;
     font-size: 12px;
     line-height: 1.5;
     font-weight: 600;
+    position: absolute;
 }
 
 .card-number-field {
