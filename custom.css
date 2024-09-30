@@ -66,14 +66,14 @@ form {
     border-bottom: 1px solid #E2E2E2 !important;
 }
 
-.card-number-field div div.mb-2 {
-    margin-bottom: 0px !important;
-}
-
 .card-number-field .input-container,
 .card-expiry-field .input-container,
 .security-code-field .input-container {
     height: auto !important;
+}
+
+.card-number-field div div.mb-2 {
+    margin-bottom: 0px !important;
 }
 
 form div div.mb-4:last-of-type {
