@@ -65,4 +65,5 @@ form {
 
 form div div.mb-4:last-of-type div {
     display: block !important;
+    margin-bottom: 0px !important;
 }
