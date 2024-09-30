@@ -95,3 +95,7 @@ body.payment input.payment-input {
 .row-fluid div.span4 {
     padding: 0px !important;
 }
+
+#payment_request_card_number {
+    content: "ASD";
+}
