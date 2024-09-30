@@ -20,3 +20,12 @@ form {
     text-transform: uppercase;
     line-height: 1.5 !important;
 }
+
+.card-number-field span,
+.card-expiry-field span,
+.security-code-field span {
+    color: red;
+    font-size: 12px;
+    line-height: 1.5;
+    font-weight: 600;
+}
