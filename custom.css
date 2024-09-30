@@ -39,7 +39,7 @@ label {
 }
 
 label.error {
-    top: 0;
+    top: 0.5px;
     color: red;
     font-size: 12px;
     line-height: 1.5;
