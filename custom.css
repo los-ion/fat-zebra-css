@@ -19,7 +19,7 @@ body {
 }
 
 label {
-    marging-bottom: 0px !important;
+    marging-bottom: 0 !important;
 }
 
 label.error {
@@ -37,7 +37,7 @@ input {
     font-weight: 600 !important;
     border-radius: 0 !important;
     box-shadow: none !important;
-    marging-bottom: 0px !important;
+    marging-bottom: 0 !important;
     padding-bottom: 10px !important;
     border-bottom: 1px solid #E2E2E2 !important;
 }
