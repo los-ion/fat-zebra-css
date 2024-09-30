@@ -4,6 +4,7 @@ body {
 
 .control-group {
     margin-bottom: 0px !important;
+    border-bottom: 1px solid #E2E2E2;
 }
 
 .control-group .control-label {
