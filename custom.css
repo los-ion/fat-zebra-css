@@ -7,12 +7,21 @@ form {
 }
 
 .control-group {
+    height: 66px;
+    padding: 10px 0px;
     position: relative;
     margin-bottom: 0px !important;
     border-bottom: 1px solid #E2E2E2;
 }
 
+.control-group:first-of-type {
+    height: 0px !important;
+    padding: 0px !important;
+}
+
 .control-group:last-of-type {
+    height: 0px !important;
+    padding: 0px !important;
     border-bottom: none !important;
 }
 
@@ -22,7 +31,6 @@ form {
     font-weight: 500;
     text-transform: uppercase;
     line-height: 1.5 !important;
-    padding: 14px 0px 5px 0px !important
 }
 
 label {
@@ -58,6 +66,8 @@ input[type="tel"] {
 }
 
 .control-group.payment_form-mh #expiry-date {
+    height: 66px;
+    padding: 10px 0px;
     position: relative;
     width: 100% !important;
     border-bottom: 1px solid #E2E2E2;
@@ -68,6 +78,8 @@ body.payment input.payment-input {
 }
 
 .control-group.payment_form-mh #security-code {
+    height: 66px;
+    padding: 10px 0px;
     position: relative;
     width: 100% !important;
 }
