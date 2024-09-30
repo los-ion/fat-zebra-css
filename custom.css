@@ -11,11 +11,15 @@ body {
     font-size: 12px;
     font-weight: 500;
     text-transform: uppercase;
-    padding-top: 10px !important;
+    padding: 10px 0px !important;
 }
 
 #card .control-group:first-of-type label {
     border-top: 1px solid #E2E2E2;
+}
+
+label {
+    marging-bottom: 0px !important;
 }
 
 label.error {
@@ -33,6 +37,7 @@ input {
     font-weight: 600 !important;
     border-radius: 0 !important;
     box-shadow: none !important;
+    marging-bottom: 0px !important;
     padding-bottom: 10px !important;
     border-bottom: 1px solid #E2E2E2 !important;
 }
