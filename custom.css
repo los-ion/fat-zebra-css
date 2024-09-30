@@ -56,3 +56,7 @@ form {
 .card-number-field div div.mb-2 {
     margin-bottom: 0px !important;
 }
+
+.card-number-field .field .input-container {
+    height: auto !important;
+}
