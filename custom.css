@@ -32,8 +32,8 @@ label {
 label.error {
     top: 0;
     color: red;
-    line-height: 1;
     font-size: 12px;
+    line-height: 1.5;
     font-weight: 600;
     position: absolute;
 }
