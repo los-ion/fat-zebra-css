@@ -69,7 +69,10 @@ form {
     height: auto !important;
 }
 
+form div div.mb-4:last-of-type {
+    margin-bottom: 0px !important;
+}
+
 form div div.mb-4:last-of-type div {
     display: block !important;
-    margin-bottom: 0px !important;
 }
