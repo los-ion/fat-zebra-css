@@ -48,7 +48,9 @@ form {
     position: absolute;
 }
 
-.card-number-field {
+.card-number-field,
+.card-expiry-field,
+.security-code-field {
     height: 66px !important;
     padding: 10px 0px !important;
     margin-bottom: 0px !important;
