@@ -21,8 +21,8 @@ form {
     font-size: 12px;
     font-weight: 500;
     text-transform: uppercase;
-    padding: 10px 0px !important;
     line-height: 1.5 !important;
+    padding: 14px 0px 6px 0px !important
 }
 
 label {
