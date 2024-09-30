@@ -2,6 +2,10 @@ body {
     font-family: "Roboto", sans-serif !important;
 }
 
+form {
+    margin: 0 !important;
+}
+
 .control-group {
     margin-bottom: 0px !important;
     border-bottom: 1px solid #E2E2E2;
