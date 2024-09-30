@@ -54,20 +54,12 @@ input[type="tel"] {
     margin-bottom: 0px !important;
 }
 
-#payment_request_card_number::placeholder {
-    content: '    -' !important;
-    color: #ABABAB !important;
-}
-
-#payment_request_card_number:focus::placeholder {
-    color: white !important;
-}
-
 .control-group.payment_form-mh {
     display: block !important;
 }
 
 .control-group.payment_form-mh #expiry-date {
+    position: relative;
     width: 100% !important;
     border-bottom: 1px solid #E2E2E2;
 }
@@ -77,6 +69,7 @@ body.payment input.payment-input {
 }
 
 .control-group.payment_form-mh #security-code {
+    position: relative;
     width: 100% !important;
 }
 
