@@ -16,7 +16,7 @@ body {
     padding-top: 10px !important;
 }
 
-.control-group .control-label:first-of-type {
+label:first-of-type {
     border-top: 1px solid #E2E2E2;
 }
 
