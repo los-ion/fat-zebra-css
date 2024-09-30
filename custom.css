@@ -29,6 +29,10 @@ input {
     padding-bottom: 10px !important;
 }
 
+.input:last-of-type {
+    border-bottom: 1px solid #E2E2E2 !important;
+}
+
 .card-visa {
     background-image: none !important;
 }
