@@ -14,7 +14,7 @@ body {
     padding-top: 10px !important;
 }
 
-#card label:first-of-type {
+#card .control-group:first-of-type label {
     border-top: 1px solid #E2E2E2;
 }
 
