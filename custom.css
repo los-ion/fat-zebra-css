@@ -13,6 +13,8 @@ body {
     font-size: 12px;
     font-weight: 500;
     text-transform: uppercase;
+    padding-top: 10px !important;
+    border-top: 1px solid #E2E2E2;
 }
 
 input {
@@ -29,11 +31,6 @@ input {
 
 .card-visa {
     background-image: none !important;
-}
-
-label {
-    padding-top: 10px !important;
-    border-top: 1px solid #E2E2E2;    
 }
 
 label.error {
