@@ -24,6 +24,16 @@ input {
     font-weight: 600 !important;
     border-radius: 0 !important;
     box-shadow: none !important;
+    padding-bottom: 10px !important;
+}
+
+.card-visa {
+    background-image: none !important;
+}
+
+label {
+    padding-top: 10px !important;
+    border-top: 1px solid #E2E2E2;    
 }
 
 label.error {
