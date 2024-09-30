@@ -33,8 +33,8 @@ input {
     border-bottom: 1px solid #E2E2E2 !important;
 }
 
-.card-visa {
-    background-image: none !important;
+.card-icon {
+    display: none !important;
 }
 
 label.error {
