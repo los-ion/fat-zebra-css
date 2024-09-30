@@ -24,6 +24,7 @@ form {
 
 .card-number-field input::placeholder {
     color: #ABABAB;
+    content: '    -';
 }
 
 .card-number-field .field span {
